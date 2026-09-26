@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amiiram
-- 🌱 I’m currently learning Front-end Development
+- 🌱 I’m currently learning and building
 
 <!---
 amiiram/amiiram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
